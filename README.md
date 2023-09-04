@@ -10,7 +10,8 @@
   <img alt="PHP" src="https://img.shields.io/badge/php%20-%4682B4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
   <img alt="Elixir" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</div
+  <img alt="Wordpress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
+ </div
 
 <!--
 **sajidhgn/sajidhgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
