@@ -1,4 +1,9 @@
 ##  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills & Projects:
+<div style="display:flex; align-items:center; column-gap:12px;">
+  [Live](https://docs.google.com/document/d/1n1MfmGAswg-EX9a_bYneunhj68PX-ZsmXIq683gor4s/edit?usp=sharing)
+  <div>&</div>
+  [Frontend Projects](https://photos.app.goo.gl/yyxDsvG7kfbDi6cc9)
+</div>
 <div class="row">
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -21,9 +26,9 @@
 </div>
 
 <!--
-[Live Projects : ](https://docs.google.com/document/d/1n1MfmGAswg-EX9a_bYneunhj68PX-ZsmXIq683gor4s/edit?usp=sharing)
 
-[Frontend: ](https://photos.app.goo.gl/yyxDsvG7kfbDi6cc9)
+
+
 
 
 **sajidhgn/sajidhgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
