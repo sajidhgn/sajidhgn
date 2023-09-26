@@ -4,8 +4,7 @@
   [Live](https://docs.google.com/document/d/1n1MfmGAswg-EX9a_bYneunhj68PX-ZsmXIq683gor4s/edit?usp=sharing)
 </div>
 [Frontend](https://photos.app.goo.gl/yyxDsvG7kfbDi6cc9)
-
-<div class="row mt-4">
+<div class="row">
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
