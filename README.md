@@ -1,8 +1,9 @@
 ##  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills & Projects:
+
 <div style="display:flex; align-items:center; column-gap:12px;">
-  [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+  [Live link](https://photos.app.goo.gl/yyxDsvG7kfbDi6cc9)
   <div>&</div>
-  [Frontend Projects](https://photos.app.goo.gl/yyxDsvG7kfbDi6cc9)
+  [Frontend link](https://photos.app.goo.gl/yyxDsvG7kfbDi6cc9)
 </div>
 <div class="row">
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -25,26 +26,7 @@
   <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
-[I'm an inline-style link](https://www.google.com)
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
 
 <!--
 
