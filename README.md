@@ -18,7 +18,14 @@
   <img src="https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=fff&style=for-the-badge" alt="Shopify Badge">
    <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
- </div
+</div>
+
+## Live Projects
+[Live Projects : ](https://docs.google.com/document/d/1n1MfmGAswg-EX9a_bYneunhj68PX- 
+ ZsmXIq683gor4s/edit?usp=sharing)
+
+## Frontend 
+[Frontend: ](https://photos.app.goo.gl/yyxDsvG7kfbDi6cc9)
 
 <!--
 **sajidhgn/sajidhgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
