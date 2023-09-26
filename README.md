@@ -1,8 +1,7 @@
 ##  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills & Projects:
 
 <div style="display:flex; align-items:center; column-gap:12px;">
-  [Live link](https://photos.app.goo.gl/yyxDsvG7kfbDi6cc9)
-  <div>&</div>
+  [Live link](https://docs.google.com/document/d/1n1MfmGAswg-EX9a_bYneunhj68PX-ZsmXIq683gor4s/edit?usp=sharing)
   [Frontend link](https://photos.app.goo.gl/yyxDsvG7kfbDi6cc9)
 </div>
 <div class="row">
