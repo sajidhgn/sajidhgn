@@ -20,11 +20,8 @@
   <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
-## Live Projects
-[Live Projects : ](https://docs.google.com/document/d/1n1MfmGAswg-EX9a_bYneunhj68PX- 
- ZsmXIq683gor4s/edit?usp=sharing)
+[Live Projects : ](https://docs.google.com/document/d/1n1MfmGAswg-EX9a_bYneunhj68PX-ZsmXIq683gor4s/edit?usp=sharing)
 
-## Frontend 
 [Frontend: ](https://photos.app.goo.gl/yyxDsvG7kfbDi6cc9)
 
 <!--
