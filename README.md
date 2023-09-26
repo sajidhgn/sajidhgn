@@ -20,11 +20,12 @@
   <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
+<!--
 [Live Projects : ](https://docs.google.com/document/d/1n1MfmGAswg-EX9a_bYneunhj68PX-ZsmXIq683gor4s/edit?usp=sharing)
 
 [Frontend: ](https://photos.app.goo.gl/yyxDsvG7kfbDi6cc9)
 
-<!--
+
 **sajidhgn/sajidhgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -49,3 +50,5 @@ Here are some ideas to get you started:
      <img height="240em" width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=sajidhgn&theme=algolia"/> 
 </a>
 </p>
+
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
