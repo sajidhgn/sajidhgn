@@ -13,7 +13,7 @@
   <div style="display: flex;">
 
 <!-- heading  -->
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&weight=700&pause=1000&color=e11d48&multiline=true&random=true&width=435&lines=My+Skills+and+Projects:" alt="Skills"> 
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&weight=700&pause=1000&color=fbbf24&multiline=true&random=true&width=435&lines=My+Skills+and+Projects:" alt="Skills"> 
   </div>
   
   
@@ -55,14 +55,14 @@
 </div>
 <img src="https://i.ibb.co/CQkjX8D/divider.gif" alt="divider" border="0" height="40" width="100%">
 
- 
+ <!-- Stats  -->
 <div align="center">
   <a href="#">
     <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sajidhgn&show_icons=true&title_color=2dd4bf&icon_color=2dd4bf&text_color=ffffff&bg_color=161b22&include_all_commits=true&count_private=true&hide_border=true"/>
   </a>
   <br>
   <a href="#">
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sajidhgn&date_format=j%20M%5B%20Y%5D&background=161b22&border=EBDBDF00&stroke=2dd4bf&ring=2dd4bf&fire=e11d48&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2dd4bf&sideLabels=2dd4bf&dates=ffffff&excludeDaysLabel=e11d48&hide_border=true"/>
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sajidhgn&date_format=j%20M%5B%20Y%5D&background=161b22&border=EBDBDF00&stroke=2dd4bf&ring=2dd4bf&fire=fbbf24&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2dd4bf&sideLabels=2dd4bf&dates=ffffff&excludeDaysLabel=e11d48&hide_border=true"/>
   </a>
   <br/> 
   <a href="#">
@@ -79,5 +79,5 @@
 <img src="https://i.ibb.co/CQkjX8D/divider.gif" alt="divider" border="0" height="40" width="100%">
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;"  align="center">
   
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&weight=600&color=2dd4bf&multiline=true&random=true&width=440&lines=Thank+you+for+visiting+my+profile!+😊+." alt="Thanks">
-</div>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&weight=600&color=2dd4bf&multiline=true&random=true&width=450&lines=Thank+you+for+visiting+my+profile!+😊+." alt="Thanks">
+</div> 
