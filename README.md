@@ -62,7 +62,7 @@
   </a>
   <br>
   <a href="#">
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sajidhgn&date_format=j%20M%5B%20Y%5D&background=161b22&border=EBDBDF00&stroke=2dd4bf&ring=2dd4bf&fire=fbbf24&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2dd4bf&sideLabels=2dd4bf&dates=ffffff&excludeDaysLabel=e11d48&hide_border=true"/>
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sajidhgn&date_format=j%20M%5B%20Y%5D&background=161b22&border=EBDBDF00&stroke=fbbf24&ring=2dd4bf&fire=fbbf24&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2dd4bf&sideLabels=2dd4bf&dates=ffffff&excludeDaysLabel=e11d48&hide_border=true"/>
   </a>
   <br/> 
   <a href="#">
