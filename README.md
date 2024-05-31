@@ -1,8 +1,12 @@
-##  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills & Projects:
+##  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" flex align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Welcome on my Profile" alt="">
 
 <div class="row">
   [Live](https://docs.google.com/document/d/1n1MfmGAswg-EX9a_bYneunhj68PX-ZsmXIq683gor4s/edit?usp=sharing)
 </div>
+<iframe src="https://docs.google.com/document/d/1n1MfmGAswg-EX9a_bYneunhj68PX-ZsmXIq683gor4s" frameborder="0" width="450" height="400" style="overflow-x:hidden;"></iframe>
+
+
+
 [Frontend](https://photos.app.goo.gl/yyxDsvG7kfbDi6cc9)
 <div class="row">
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
