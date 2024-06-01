@@ -58,15 +58,15 @@
  <!-- Stats  -->
 <div align="center">
   <a href="#">
-    <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sajidhgn&show_icons=true&title_color=2dd4bf&icon_color=2dd4bf&text_color=ffffff&bg_color=161b22&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sajidhgn&show_icons=true&title_color=2dd4bf&icon_color=2dd4bf&text_color=fbbf24&bg_color=fbbf2400&include_all_commits=true&count_private=true&hide_border=true"/>
   </a>
   <br>
   <a href="#">
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sajidhgn&date_format=j%20M%5B%20Y%5D&background=161b22&border=EBDBDF00&stroke=fbbf24&ring=2dd4bf&fire=fbbf24&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2dd4bf&sideLabels=2dd4bf&dates=ffffff&excludeDaysLabel=e11d48&hide_border=true"/>
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sajidhgn&date_format=j%20M%5B%20Y%5D&background=fbbf2400&border=EBDBDF00&stroke=fbbf24&ring=2dd4bf&fire=fbbf24&currStreakNum=fbbf24&sideNums=fbbf24&currStreakLabel=2dd4bf&sideLabels=2dd4bf&dates=fbbf24&excludeDaysLabel=e11d48&hide_border=true"/>
   </a>
   <br/> 
   <a href="#">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidhgn&layout=compact&title_color=2dd4bf&text_color=ffffff&bg_color=161b22&hide_border=true"/>
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidhgn&layout=compact&title_color=2dd4bf&text_color=fbbf24&bg_color=fbbf2400&hide_border=true"/>
   </a>
   
 
