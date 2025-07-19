@@ -1,7 +1,31 @@
-##  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills & Projects:
+<h1 align="center">Hi 👋, I'm Sajid Ali</h1>
+<h3 align="center">A Senior Software Engineer passionate about coding, and making client ideas come true.</h3>
 
-[Portfolio](https://photos.app.goo.gl/yyxDsvG7kfbDi6cc9)
-<div class="row">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/4708484/117501914-bee53600-af4c-11eb-8523-6ace0ea11d3e.png"
+    alt="avatar" width="140" height="140" />
+</div>
+
+
+<br>
+<p align="center">
+  <a href="https://github.com/sajidhgn" target="_blank">
+    <img alt="Github"
+      src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sajidhgn/" target="_blank">
+    <img alt="Linkedin"
+      src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+<br>
+
+- 🔭 I’m currently working at [OxCoders](https://www.linkedin.com/company/oxcoders/)
+
+- 👨‍💻 All of my projects are available at [www.sajidhgn.vercel.app](https://sajidhgn.vercel.app)
+
+<h3 align="center">Languages and Tools:</h3>
+  <div align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -24,31 +48,4 @@
    <img alt="ElectronJs" src="https://img.shields.io/badge/Electron.js-2C2E3B?style=for-the-badge&logo=electron&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </div>
-
-<!--
-
-**sajidhgn/sajidhgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<p align="center">
-<a href="https://github.com/sajidhgn">
-  <img height="240em" width="420em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sajidhgn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <br>
-  <img height="240em" width="420em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sajidhgn&layout=compact&theme=algolia"/> 
-    <br>
-     <img height="240em" width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=sajidhgn&theme=algolia"/> 
-</a>
-</p>
-
+<br>
