@@ -6,7 +6,6 @@
     alt="avatar" width="140" height="140" />
 </div>
 
-
 <br>
 <p align="center">
   <a href="https://github.com/sajidhgn" target="_blank">
@@ -22,7 +21,7 @@
 
 - 🔭 I’m currently working at [OxCoders](https://www.linkedin.com/company/oxcoders/)
 
-- 👨‍💻 All of my projects are available at [www.sajidhgn.vercel.app](https://sajidhgn.vercel.app)
+- 👨‍💻 All of my projects are available at [www.sajidhgn.vercel.app](https://sajidhgn.vercel.app/)
 
 <h3 align="center">Languages and Tools:</h3>
   <div align="center">
@@ -48,4 +47,3 @@
    <img alt="ElectronJs" src="https://img.shields.io/badge/Electron.js-2C2E3B?style=for-the-badge&logo=electron&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </div>
-<br>
