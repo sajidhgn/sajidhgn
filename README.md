@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working at [OxCoders](https://www.linkedin.com/company/oxcoders/)
 
-- 👨‍💻 All of my projects are available at [www.sajidhgn.vercel.app](https://sajidhgn.vercel.app/)
+- 👨‍💻 All of my projects are available at [sajidhgn.vercel.app](https://sajidhgn.vercel.app/)
 
 <h3 align="center">Languages and Tools:</h3>
   <div align="center">
