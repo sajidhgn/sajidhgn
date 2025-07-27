@@ -42,7 +42,6 @@
 
   ### 🛠️ Backend Skills
 
-   ---
   ![ElectronJs](https://img.shields.io/badge/Electron.js-2C2E3B?style=for-the-badge&logo=electron&logoColor=white)
   ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![ExpressJs](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white)
