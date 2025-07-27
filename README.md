@@ -15,32 +15,24 @@
 
 ### 🛠️ My Skills
 
-  ![HTML5](https://img.shields.io/badge/HTML-e34f26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-2299F8?style=for-the-badge&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=Javascript&logoColor=white)
- ![Bootstrap](https://img.shields.io/badge/Bootstrap-533979?style=for-the-badge&logo=Bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-19B5B2?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=MUI&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/shadcn%20UI-000000?style=for-the-badge&logoColor=white)
-![React](https://img.shields.io/badge/React-00d8ff?style=for-the-badge&logo=React&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=JQuery&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-007ACC?style=for-the-badge&logo=zustand&logoColor=white)
-![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-1B74BA?style=for-the-badge&logo=Webpack&logoColor=white)
-![Parcel](https://img.shields.io/badge/parceljs-DCAA75?style=for-the-badge&logo=parceljs&logoColor=white)
-![Prettier](https://img.shields.io/badge/prettier-56B3B4?style=for-the-badge&logo=prettier&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESlint-472FB9?style=for-the-badge&logo=ESlint&logoColor=white)
-![Babel](https://img.shields.io/badge/babel-E2C837?style=for-the-badge&logo=babel&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-C66394?style=for-the-badge&logo=Sass&logoColor=white)
-![Git](https://img.shields.io/badge/Git-c9510c?style=for-the-badge&logo=Git&logoColor=white)
-![Github](https://img.shields.io/badge/Github-4078c0?style=for-the-badge&logo=Github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-333333?style=for-the-badge&logo=NPM&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=Yarn&logoColor=white)
-![PNPM](https://img.shields.io/badge/pnpm-333333?style=for-the-badge&logo=pnpm&logoColor=white)
+ <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+      <img alt="sass" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img alt="ElectronJs" src="https://img.shields.io/badge/Electron.js-2C2E3B?style=for-the-badge&logo=electron&logoColor=white" />
+<img alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="ExpressJs" src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" alt="MySQL Badge">
+  <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
+   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+    <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+<img alt="Shopify" src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
 
   ---
 
