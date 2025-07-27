@@ -12,8 +12,8 @@
 
 - 🔭 I’m currently working at [OxCoders](https://www.linkedin.com/company/oxcoders/)
 - 👨‍💻 All of my projects are available at [sajidhgn.vercel.app](https://sajidhgn.vercel.app/)
-  
-  ---
+
+---
 
 ### 🛠️ Frontend Skills
 
