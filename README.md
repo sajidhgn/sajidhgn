@@ -8,7 +8,6 @@
 
 <!--
 <img align="right" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Languages Graph" />
-</br>
 -->
 
 <br>
@@ -31,6 +30,7 @@
 ![Shadcn UI](https://img.shields.io/badge/shadcn%20UI-000000?style=for-the-badge&logoColor=white)
 ![React](https://img.shields.io/badge/React-00d8ff?style=for-the-badge&logo=React&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![ElectronJs](https://img.shields.io/badge/Electron.js-2C2E3B?style=for-the-badge&logo=electron&logoColor=white)
 ![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=JQuery&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-007ACC?style=for-the-badge&logo=zustand&logoColor=white)
@@ -42,7 +42,6 @@
 
   ### 🛠️ Backend Skills
 
-  ![ElectronJs](https://img.shields.io/badge/Electron.js-2C2E3B?style=for-the-badge&logo=electron&logoColor=white)
   ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![ExpressJs](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
