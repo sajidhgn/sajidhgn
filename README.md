@@ -1,7 +1,7 @@
 
 <h2 align="left">Hi 👋! I'm Sajid Ali, a Software Engineer.</h2>
 
-👨‍💻 Full Stack Developer  </br>
+👨‍💻 Senior Web Developer | Frontend Specialist | Full-stack Capable  </br>
 🔧 Specializing in React.js, Next.js, and modern UI frameworks like Tailwind CSS and Material UI.</br>
 🚀 Experienced with state management tools (Redux, Zustand) and libraries like React Query.</br>
 💡 Focused on delivering high-quality, scalable solutions with a strong foundation in MERN stack development.</br>
